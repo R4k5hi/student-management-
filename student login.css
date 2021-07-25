@@ -1,0 +1,65 @@
+form{
+    background-image: "./backround.jpg";
+    border: 3px;
+    width: 100%;
+    padding: 5px 10px;
+    margin: 3px 0;
+    box-sizing: border-box;
+}
+div{
+    width: 100%;
+    padding: 10px 15px;
+    margin: 5px 0;
+}
+
+button{
+    background-color: rgb(137, 201, 238);
+    color: aliceblue;
+    border: 5px;
+    width: 8%;
+    margin: 10px 0;
+    height: 25px;
+    padding: 5px 10px;
+    cursor: pointer;
+    
+}
+
+.cancelbtn{
+    background-color: firebrick;
+    color: floralwhite;
+}
+
+img#loginavatar{
+    height: 5%;
+    width:  8%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+margin: 5;
+padding: 0 0 5px;   
+text-align: center;
+font-size: 35px;
+font-style: italic;
+color: cornflowerblue;
+}
+
+.center {
+    display: block;
+    margin-left: 10px;
+    margin-right: auto;
+    width: 50%;
+  }
+  #column { }
+
+ 
+
+
+
+
+
+
+    
+    
+
