@@ -1,5 +1,5 @@
 form{
-    background-image: "./backround.jpg";
+    background-image: url("./backround.jpg");
     border: 3px;
     width: 100%;
     padding: 5px 10px;
